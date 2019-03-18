@@ -16,6 +16,7 @@ Pscan
     ```
     python pscan.py --mode port --host 114.116.50-60 --port 80,8080 --thread 50
     ```
+    支持:`--port 80  |  --port 1-100`
 
   * 扫C段
 
